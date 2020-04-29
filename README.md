@@ -1,2 +1,4 @@
-# rsnug-5
-RSNUG #5 :: File / New Solution! Arquitetura, Coding, Complexidade e Maturidade
+# RSNUG #5 :: File / New Solution! Arquitetura, Coding, Complexidade e Maturidade
+De tempos em tempos, temos a oportunidade de iniciar um novo projeto. Em outros casos, temos a oportunidade de refatorar e evoluir uma aplicação existente. Essas oportunidades chegam acompanhas de grandes desafios. Decisões importantes precisam ser tomadas. Entre elas estão definições de arquitetura,tecnologias, padrões entre outros. O que fazer nessas situações? Como definir uma arquitetura que pode ter dezenas de pessoas trabalhando ou uma aplicação crítica? 
+Nesse bate-papo, vamos falar de estratégias na escolhas de arquitetura, o impacto causado pela maturidade do time, trechos de código medonhos, complexidade, templates de arquiteturas, frases prontas como "baixa acoplamento e alta coesão" entre outros.
+[Link para o evento](https://www.meetup.com/pt-BR/rsnug-org/events/270091989/)
